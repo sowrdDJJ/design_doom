@@ -17,7 +17,7 @@
     "better-scroll": "^1.15.2",
     "bootstrap": "^4.4.1",
     "fastclick": "^1.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lib-flexible": "^0.3.2",
     "popper.js": "^1.16.0",
     "postcss-pxtorem": "^4.0.1",
